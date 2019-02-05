@@ -4,13 +4,6 @@ default_versions:
 - name: node
   version: 6.x
 include_files:
-- CHANGELOG
-- CONTRIBUTING.md
-- ISSUE_TEMPLATE
-- LICENSE
-- NOTICE
-- PULL_REQUEST_TEMPLATE
-- README.md
 - VERSION
 - bin/compile
 - bin/detect
